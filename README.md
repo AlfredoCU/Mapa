@@ -1,2 +1,2 @@
-# Mapa
-Desarrollar un paisaje usando técnicas de modelado básica
+# Mapa.
+- Desarrollar un paisaje usando técnicas de modelado básica.
